@@ -5,4 +5,4 @@ I'm interested in family history research
 # Get in touch
 <ul>
 <li><a href="https://github.com//{{site.github_honicomb}}"GitHub</a></li>>
-<ul>
+</a>ul>
